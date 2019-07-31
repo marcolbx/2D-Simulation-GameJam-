@@ -24,6 +24,34 @@ ExportedObj/
 *.pdb
 *.opendb
 
+*.mat
+*.obj
+*.ttf
+*.fbx
+*.xml
+*.aar
+*.so
+*.a
+
+*.dylib
+*.cs.meta
+*.wav
+*.txt
+*.wav.meta
+*.png.meta
+*.png
+*.FBX.meta
+*.mp3
+*.mp3.meta
+*.tga
+*.tga.meta
+*.jpg
+*.mat
+*.mat.meta
+*.mixer
+*.prefab
+*.prefab.meta
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
